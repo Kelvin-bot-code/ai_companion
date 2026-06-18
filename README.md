@@ -6,13 +6,13 @@ Welcome to the official repository for **NavigAI**, an interactive, mobile-based
 
 NavigAI is designed to modernize campus navigation and exploration. Instead of looking at static 2D maps, users can immerse themselves in a 3D VR environment and naturally converse with an AI guide. The NPC leverages local LLMs for real-time voice interaction, answering questions about the campus and utilizing advanced pathfinding to physically guide the user to their desired destination. 
 
-**Overall Progress:** 70%
-  <br> `▰▰▰▰▰▰▰▱▱▱ 70%`
+**Overall Progress:** 100%
+  <br> `▰▰▰▰▰▰▰▰▰▰ 100%`
   
 ## 📈 Current Status & Timeline
 
-* **Status:** playable
-* **Time in Development:** ~1 Month (Initiated April 2026)
+* **Status:** playable & fully optimized
+* **Time in Development:** ~ 50 days (Initiated April 2026)
 
 **How it's going:** The core foundation has been established over the last few weeks. The focus has been heavily on integrating the local LLM environment for responsive, low-latency conversational AI and mapping out the navigable mesh for the campus environment. The bridge between the voice input, the AI processing, and the NPC's pathfinding logic is currently being refined to ensure the interactions feel seamless without excessive delay or "yapping" from the guide.
 
@@ -34,9 +34,9 @@ NavigAI is designed to modernize campus navigation and exploration. Instead of l
 
 ## 🔮 Future Roadmap
 
-* [ ] Complete the 1:1 scale modeling of all primary campus blocks.
-* [ ] Optimize local LLM response times for mobile constraints.
-* [ ] Polish NPC animations and lip-syncing based on audio output.
-* [ ] Implement a dynamic UI overlay for quick text-based queries if voice is unavailable.
+* [✅] Complete the 1:1 scale modeling of all primary campus blocks.
+* [✅] Optimize local LLM response times for mobile constraints.
+* [✅] Polish NPC animations and lip-syncing based on audio output.
+* [✅] Implement a dynamic UI overlay for quick text-based queries if voice is unavailable.
       
 --- 
